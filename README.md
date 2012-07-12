@@ -1,10 +1,10 @@
 # PHP Info
 
-phpinfo - Outputs information about PHP's configuration
+phpinfo() - Outputs information about PHP's configuration
 
 ## Deploy on Stackato
 
-   stackato push -n
+     stackato push -n
 
 ## Details
 
