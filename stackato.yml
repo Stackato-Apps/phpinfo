@@ -1,3 +1,0 @@
-# so that we can deploy with 'stackato push --no-prompt'
-name: phpinfo
-framework: php

@@ -1,0 +1,4 @@
+applications:
+- name: phpinfo
+  framework:
+    name: php
