@@ -1,3 +1,4 @@
 applications:
 - name: phpinfo
   buildpack: https://github.com/heroku/heroku-buildpack-php.git
+  mem: 64M
