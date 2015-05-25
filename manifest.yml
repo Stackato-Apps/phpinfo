@@ -1,4 +1,4 @@
 applications:
 - name: phpinfo
-  buildpack: https://github.com/heroku/heroku-buildpack-php.git
+  docker_image: stackatoapps/phpinfo:latest
   mem: 64M
