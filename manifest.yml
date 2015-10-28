@@ -1,4 +1,4 @@
 applications:
 - name: phpinfo
   docker_image: stackatoapps/phpinfo:latest
-  mem: 64M
+  memory: 64M
