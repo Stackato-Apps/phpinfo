@@ -4,7 +4,7 @@ phpinfo() - Outputs information about PHP's configuration
 
 ## Deploy on HPE Helion Stackato
 
-     stackato push -n
+     cf push
 
 ## Details
 
